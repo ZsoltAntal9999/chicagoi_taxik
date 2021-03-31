@@ -1,0 +1,35 @@
+#content{
+    background-color: goldenrod;
+    width: 960px;
+    height: 1000px;
+    margin: 0 auto;
+    border-left: 10px double gold;
+    border-right: 10px double gold;
+}
+h1{
+    text-align: center;
+    font-variant: small-caps;
+}
+.right{
+    float: right;
+    height: 300px;
+}
+.bio{
+    float: left;
+    width: 400px;
+    border: 3px solid yellow;
+    background-color: lightgray;
+}
+p{
+    text-align: justify;
+}
+.clr{
+    display: inline-block;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
